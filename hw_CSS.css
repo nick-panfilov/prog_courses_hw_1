@@ -1,0 +1,19 @@
+
+.brd {
+	            width: 400px;
+				background: #FFFFFF; 
+				border: 2px solid #C71585;
+				padding: 3px;
+				margin: auto; 5px;
+				border-radius: 20px;
+			}
+			
+#center { text-align: center; }
+
+h1 { 
+font: bold 16pt  Arial; 
+}
+
+h2 { 
+font: bold 12pt  Arial; 
+}
